@@ -1,5 +1,5 @@
 layout: page  
 title: "Allgemeine und Anorganische Chemie"  
-permalink: /phy120_chem  
+permalink: jjxsh03.github.io/phy120_chem  
 
 # Nebenfach Chemie
