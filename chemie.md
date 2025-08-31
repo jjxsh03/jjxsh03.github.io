@@ -1,3 +1,5 @@
-layout: page
-title: "Allgemeine und Anorganische Chemie"
-permalink: /phy120_chem
+layout: page  
+title: "Allgemeine und Anorganische Chemie"  
+permalink: /phy120_chem  
+
+# Nebenfach Chemie
